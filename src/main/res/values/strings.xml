@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="welcome">Electronics</string>
+    <string name="add_cart">Add to Shopping Cart</string>
+    <string name="checkout">Check Out</string>
+    <string name="details">Product Description</string>
+    <string name="thanks">Thank You for shopping with us! These are your items</string>
+    <string name="detail_title">Details</string>
+</resources>
